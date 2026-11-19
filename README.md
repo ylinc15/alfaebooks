@@ -1,3 +1,3 @@
-# Alfa Ebooks
+# Alfa Ebooks Manager
 
 Official Windows installer downloads.
